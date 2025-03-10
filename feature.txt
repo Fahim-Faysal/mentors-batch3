@@ -1,3 +1,4 @@
 Feature added and merge conflict test .
 Feature barnch
 Hello world
+conflict Feature barnch
