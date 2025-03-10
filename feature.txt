@@ -3,3 +3,5 @@ Feature barnch
 Hello world
 git Feature
 Merge conflict
+conflict Feature barnch
+
