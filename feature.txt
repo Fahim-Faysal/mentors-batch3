@@ -1,2 +1,2 @@
-Feature add
+Feature added and merge conflict test .
 Feature barnch
